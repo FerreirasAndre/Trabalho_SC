@@ -1,0 +1,16 @@
+Projeto em grupo com até 4 alunos.
+
+Entregar um arquivo compactado (.zip, .tar, .war) contendo os seguintes arquivos:
+- Código fonte com a implementação do projeto
+- Arquivos de entrada que foram utilizados
+- Relatório explicando o código desenvolvido, mostrando figuras do projeto rodando e como foi compilado.
+
+----Opcional----
+Entregar em arquivo separado as tarefas Extras:
+- Código fonte com a implementação do projeto
+- Arquivos de entrada que foram utilizados
+- Relatório explicando o código desenvolvido, mostrando figuras do projeto rodando e como foi compilado.
+
+
+Como tornar o processo em daemon:
+https://www.thegeekstuff.com/2012/02/c-daemon-process/
